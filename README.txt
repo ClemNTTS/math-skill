@@ -1,0 +1,1 @@
+Calculate statistic from a list of numbres
